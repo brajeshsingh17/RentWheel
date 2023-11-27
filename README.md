@@ -111,11 +111,6 @@ This is a project for renting the cars ,the mini project is developed under supe
 - The project report is written in Microsoft Word.
 - The project repot has flow chart, ERD, and UML diagram.
 
-## Demo
-
-- [Live Deployment](https://carsminiproject.000webhostapp.com/)
-- [Video Demo](https://youtu.be/1Z9Z9Z9Z9Z9)
-
 ## Authors 
 
 - [BRAJESH SINGH CHOUHAN]
