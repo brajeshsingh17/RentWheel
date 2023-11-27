@@ -1,0 +1,19 @@
+#servies-footer{
+    display: flex;
+    margin-top: -1.5rem;
+    background:white;
+    height: 150px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.8rem;
+}
+#agartala-rental{
+    color: orange;
+}
+#main-head{
+    align-items: center;
+}
+#main-head2{
+    margin-left: 1rem;
+}
