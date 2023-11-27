@@ -116,9 +116,5 @@ This is a project for renting the cars ,the mini project is developed under supe
 - [BRAJESH SINGH CHOUHAN]
 - [MD IMRAN]
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
 
 
