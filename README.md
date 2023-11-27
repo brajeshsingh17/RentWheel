@@ -111,11 +111,6 @@ This is a project for renting the cars ,the mini project is developed under supe
 - The project report is written in Microsoft Word.
 - The project repot has flow chart, ERD, and UML diagram.
 
-##  License
-
-[MIT](https://choosealicense.com/licenses/mit/) © [BRAJESH SINGH CHOUHAN](https://github.com/Varshithvhegde)
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Demo
 
 - [Live Deployment](https://carsminiproject.000webhostapp.com/)
