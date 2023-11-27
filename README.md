@@ -101,8 +101,6 @@ This is a project for renting the cars ,the mini project is developed under supe
 - Admin can view feedback by clicking the view button.
 
 ## Project Report
-
-- The project report is stored in a folder called [report](https://github.com/Varshithvhegde/car_rental_project/raw/main/report/CarProjectFinalReport.pdf).
 - Report consists of the following:
     - Introduction
     - Literature Review
@@ -115,7 +113,7 @@ This is a project for renting the cars ,the mini project is developed under supe
 
 ##  License
 
-[MIT](https://choosealicense.com/licenses/mit/) © [Varshith Hegde](https://github.com/Varshithvhegde)
+[MIT](https://choosealicense.com/licenses/mit/) © [BRAJESH SINGH CHOUHAN](https://github.com/Varshithvhegde)
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Demo
