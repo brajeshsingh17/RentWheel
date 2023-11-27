@@ -1,8 +1,8 @@
-![frame_firefox_mac_dark (1)](https://user-images.githubusercontent.com/80502833/187230764-e1bb2b44-c221-4529-ba73-a2261e636372.png)
 
-<h1 align="center">Car Rental Website Project</h1>  
 
-This is a project for a car rental website. It is a project for the College Mini Project.
+<h1 align="center">RentWheels</h1>  
+
+This is a project for renting the cars ,the mini project is developed under supervised faculties of NIT AGARTALA.
 
 ## Table of Contents
 
@@ -125,14 +125,12 @@ This is a project for a car rental website. It is a project for the College Mini
 
 ## Authors 
 
-- [Varshith V Hegde](https://github.com/Varshithvhegde)
-- [Swasthik Jain PM](https://github.com/Swasthik-Jain)
+- [BRAJESH SINGH CHOUHAN]
+- [MD IMRAN]
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
 
 
 
